@@ -1,0 +1,16 @@
+{
+  "name": "mint-protocol",
+  "version": "1.0.0",
+  "description": "Welcome to our Decentralized Trading Ideas Platform, a unique space designed for users to share, discuss, and engage with trading ideas in a decentralized, secure, and transparent manner. This platform is built to foster a vibrant community of traders and enthusiasts who are passionate about the financial markets and wish to contribute their insights and learn from others.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.21.0"
+  }
+}
