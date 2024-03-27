@@ -14,6 +14,12 @@ Welcome to our Decentralized Trading Ideas Platform, a unique space designed for
 
 - **Token Rewards:** Creators of valuable trading ideas are rewarded with tokens. This incentivizes high-quality contributions to the platform and offers a way for successful traders and analysts to monetize their expertise.
 
+## Protocol
+- **MintToken:** A platform token and shared token economy that aligns the incentives of all participants.
+- **ContentNodes:** A user-operated network of nodes to host content and permission access to content on behalf of content creators.
+- **Content ledger:** A single source of truth for all data accessiblwe within the Mint protocol, anchroing references to content hosted by content nodes.
+- **Governance:** A mechanism for modifications and improvements to Mint which shares control among those who have created  and are creating value on an ongoing basis.
+
 ## Getting Started
 
 To get started with our platform, simply create an account and begin exploring the trading ideas shared by our community. Whether you're looking to share your own insights or learn from others, our platform offers the tools and environment to do so in a decentralized and user-centric way.
@@ -22,10 +28,5 @@ To get started with our platform, simply create an account and begin exploring t
 
 We welcome contributions from our community. Whether it's through sharing your trading ideas, engaging with content, or providing feedback on the platform, your participation helps us build a richer trading community.
 
-## Protocol
-- **MintToken:** A platform token and shared token economy that aligns the incentives of all participants.
-- **ContentNodes:** A user-operated network of nodes to host content and permission access to content on behalf of content creators.
-- **Content ledger:** A single source of truth for all data accessiblwe within the Mint protocol, anchroing references to content hosted by content nodes.
-- **Governance:** A mechanism for modifications and improvements to Mint which shares control among those who have created  and are creating value on an ongoing basis.
 
 Thank you for being a part of our Decentralized Trading Ideas Platform. Let's navigate the financial markets together, sharing knowledge and strategies for success.
